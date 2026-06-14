@@ -1,51 +1,79 @@
-<!-- Profile Header -->
+<!-- Profile Views -->
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=itsmevijay005&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<h1 align="center">Hi 👋, I'm Vijay Sai Guna Pagoti</h1>
+
+<!-- Header -->
+
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+Hi, I'm Vijay Sai Guna Pagoti
+</h1>
+
 
 <h3 align="center">
-AI & Machine Learning Student | Full Stack Developer | Building Intelligent Applications
+AI & Machine Learning Engineer | Full Stack Developer | Problem Solver
 </h3>
 
 
+<!-- Typing Animation -->
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vijay2026-web&label=Profile%20Views&color=blue&style=flat"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Full+Stack+Developer;Building+AI+Powered+Applications;Deep+Learning+Enthusiast"/>
+
 </p>
 
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a Computer Science Engineering student specializing in 
+
+I am **Vijay Sai Guna Pagoti**, a Computer Science Engineering student specializing in  
 **Artificial Intelligence & Machine Learning** at  
-**Sir C.R. Reddy College of Engineering (2023–2027)**.
+**Sir C.R. Reddy College of Engineering (2023–2027).**
 
-I enjoy building practical software solutions by combining 
-**AI, Machine Learning, and Full Stack Development**.
 
-- 🔭 Currently working on AI-based and Full Stack projects
-- 🤖 Exploring Generative AI, LLM Applications & Intelligent Systems
-- 🌱 Learning Advanced Machine Learning and Scalable Web Development
-- 🏆 NPTEL Elite Certified in Deep Learning — IIT Ropar
-- 💡 Interested in AI Engineering and Software Development
-- 🚀 Goal: Build impactful AI-powered products
+I am passionate about developing intelligent applications by combining:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 🌐 Full Stack Development
+- ☁️ Modern Software Technologies
+
+
+### Currently:
+
+- 🔭 Working on AI & Full Stack Projects
+- 📚 Exploring Generative AI and LLM Applications
+- 🌱 Learning Advanced AI, Cloud and Backend Development
+- 💻 Building production-level applications
+
+
+### Career Goal:
+
+> To become an AI Engineer capable of creating scalable, intelligent and impactful software solutions.
 
 
 ---
 
-# 🛠 Technical Skills
+# 🛠️ Technical Skills
 
 
-### Programming Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
 
-### Artificial Intelligence
+---
+
+## Artificial Intelligence
 
 - Machine Learning
 - Deep Learning
@@ -53,25 +81,33 @@ I enjoy building practical software solutions by combining
 - Natural Language Processing
 - Generative AI
 - LLM Applications
+- AI Tools
 
 
-### Frontend Development
+---
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
+## Frontend Development
 
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
 
-### Backend & Database
+---
+
+## Backend & Database
 
 - Flask
 - REST APIs
 - MySQL
+- Database Management
 
 
-### Developer Tools
+---
+
+## Developer Tools
 
 - Git & GitHub
 - VS Code
@@ -81,23 +117,28 @@ I enjoy building practical software solutions by combining
 
 ---
 
+
 # 🚀 Featured Projects
 
 
 ## 📚 Learning Management System (LMS)
 
-A complete web-based platform designed to manage online learning activities.
+
+A complete digital learning platform designed to manage online education activities efficiently.
+
 
 ### Features:
-- Student and admin modules
-- Course management system
-- User authentication
-- Dashboard interface
-- Database integration
+
+✔ Student & Admin Dashboard  
+✔ Course Management  
+✔ Authentication System  
+✔ Database Integration  
+✔ Responsive User Interface  
+
 
 Tech Stack:
 
-`React` `Flask` `MySQL`
+`React`  `Flask`  `MySQL`
 
 
 ---
@@ -105,19 +146,23 @@ Tech Stack:
 
 ## 🤖 AI / Machine Learning Projects
 
-Implemented ML and Deep Learning models for solving real-world problems.
+
+Implemented intelligent systems using Machine Learning and Deep Learning concepts.
+
 
 Tech Stack:
 
-`Python` `Machine Learning` `Deep Learning`
+`Python` `ML Algorithms` `Deep Learning`
 
 
 ---
 
 
-## 🌐 Developer Portfolio
+## 🌐 Personal Portfolio Website
 
-Personal portfolio website showcasing projects, skills and achievements.
+
+A responsive portfolio showcasing my projects, achievements and skills.
+
 
 Tech Stack:
 
@@ -127,14 +172,18 @@ Tech Stack:
 ---
 
 
-# 🎓 Certifications
+# 🏆 Achievements & Certifications
 
-🏅 NPTEL Elite Certificate - Deep Learning  
-Issued by IIT Ropar
 
-🏅 NPTEL Machine Learning
-
-🏅 Smart India Hackathon Participant
+| Achievement | Organization |
+|------------|-------------|
+| 🏅 GATE 2026 Qualified & Rank Holder - CSE&IT | IIT GUWAHATI |
+| 🧠 Deep Learning Elite Certificate | NPTEL - IIT Ropar |
+| 🤖 Machine Learning Certification | NPTEL-IIT MADRAS|
+| 📱 Flutter App Development Certification | Data Valley |
+| 🚀 AI Tools Certification | 10bx |
+| 💬 ChatGPT Workshop Certification | AI Workshop 10bx |
+| 🇮🇳 Smart India Hackathon Participant | Government of India |
 
 
 ---
@@ -145,16 +194,19 @@ Issued by IIT Ropar
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vijay2026-web&show_icons=true&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsmevijay005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay2026-web&theme=github-dark"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmevijay005&theme=tokyonight&hide_border=true"/>
+
 
 </p>
 
 
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay2026-web&layout=compact&theme=github_dark"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevijay005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -162,25 +214,49 @@ Issued by IIT Ropar
 ---
 
 
-# 🌎 Connect With Me
+# 🌐 Connect With Me
 
 
-LinkedIn:
-www.linkedin.com/in/vijay-pagoti-20b03a2b4
+<p align="center">
 
 
-Portfolio:
-vijay-2026dev-portfolio.lovable.app
+<a href="https://www.linkedin.com/in/vijay-pagoti-20b03a2b4">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+</a>
 
 
-Email:
-vijaysaiguna2026@gmail.com
+<a href="https://github.com/itsmevijay005">
+
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+
+</a>
+
+
+<a href="mailto:vijaysaiguna2026@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+
+</a>
+
+
+</p>
 
 
 ---
 
+
 <p align="center">
 
-"Building intelligent solutions through code and continuous learning."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+
 
 </p>
+
+
+<h3 align="center">
+
+"Learning continuously. Building intelligently. Growing every day 🚀"
+
+</h3>
