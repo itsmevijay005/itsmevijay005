@@ -84,6 +84,33 @@ Implemented intelligent systems using Machine Learning and Deep Learning concept
 
 ---
 
+---
+
+## 🛒 E-Commerce Project
+
+A full-featured e-commerce platform designed for a seamless online shopping experience, featuring dynamic product management and secure checkout.
+
+### 🚀 Key Features
+
+| Feature | Description |
+| :--- | :--- |
+| **User Management** | Secure user registration, login, and profile management. |
+| **Product Catalog** | Dynamic product listing with search, filter, and sorting capabilities. |
+| **Shopping Cart** | Persistent cart functionality with real-time price and quantity updates. |
+| **Checkout & Payments** | Integrated secure checkout flow with payment gateway support. |
+| **Admin Dashboard** | Tools for inventory tracking, product management, and order monitoring. |
+
+---
+
+### 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript (React / Vue / Angular if applicable)
+* **Backend:** Node.js / Python / PHP (Modify based on your stack)
+* **Database:** MongoDB / MySQL / PostgreSQL
+* **Tools & APIs:** Git, Payment Gateway API (e.g., Stripe/PayPal)
+
+---
+
 ## 🌐 Personal Portfolio Website
 A responsive portfolio showcasing my projects, achievements and skills.
 
