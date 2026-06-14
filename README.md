@@ -1,19 +1,19 @@
 <!-- Profile Views -->
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=itsmevijay005&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 
-<!-- Header -->
+<!-- Animated Header -->
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-Hi, I'm Vijay Sai Guna Pagoti
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vijay%20Sai%20Guna%20Pagoti&fontSize=40&animation=fadeIn"/>
+</p>
 
 
 <h3 align="center">
-AI & Machine Learning Engineer | Full Stack Developer | Problem Solver
+AI & Machine Learning Engineer | Full Stack Developer | Problem Solver 🚀
 </h3>
 
 
@@ -21,12 +21,16 @@ AI & Machine Learning Engineer | Full Stack Developer | Problem Solver
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Full+Stack+Developer;Building+AI+Powered+Applications;Deep+Learning+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Student+🤖;Full+Stack+Developer+💻;Building+AI+Powered+Applications🚀;Deep+Learning+Enthusiast🧠;Always+Learning+New+Technologies🔥"/>
 
 </p>
 
 
 ---
+
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 # 👨‍💻 About Me
 
@@ -57,12 +61,19 @@ I am passionate about developing intelligent applications by combining:
 > To become an AI Engineer capable of creating scalable, intelligent and impactful software solutions.
 
 
+🌐 Portfolio:
+
+🔗 https://vijay-2026dev-portfolio.lovable.app
+
+
 ---
+
 
 # 🛠️ Technical Skills
 
 
 ## Programming Languages
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -73,7 +84,9 @@ I am passionate about developing intelligent applications by combining:
 
 ---
 
+
 ## Artificial Intelligence
+
 
 - Machine Learning
 - Deep Learning
@@ -86,7 +99,9 @@ I am passionate about developing intelligent applications by combining:
 
 ---
 
+
 ## Frontend Development
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 
@@ -97,7 +112,9 @@ I am passionate about developing intelligent applications by combining:
 
 ---
 
+
 ## Backend & Database
+
 
 - Flask
 - REST APIs
@@ -107,7 +124,9 @@ I am passionate about developing intelligent applications by combining:
 
 ---
 
+
 ## Developer Tools
+
 
 - Git & GitHub
 - VS Code
@@ -116,6 +135,7 @@ I am passionate about developing intelligent applications by combining:
 
 
 ---
+
 
 
 # 🚀 Featured Projects
@@ -128,6 +148,7 @@ A complete digital learning platform designed to manage online education activit
 
 
 ### Features:
+
 
 ✔ Student & Admin Dashboard  
 ✔ Course Management  
@@ -164,12 +185,18 @@ Tech Stack:
 A responsive portfolio showcasing my projects, achievements and skills.
 
 
+🔗 Live Portfolio:
+
+https://vijay-2026dev-portfolio.lovable.app
+
+
 Tech Stack:
 
 `React` `Tailwind CSS`
 
 
 ---
+
 
 
 # 🏆 Achievements & Certifications
@@ -189,6 +216,7 @@ Tech Stack:
 ---
 
 
+
 # 📊 GitHub Analytics
 
 
@@ -201,7 +229,6 @@ Tech Stack:
 
 
 </p>
-
 
 
 <p align="center">
@@ -218,6 +245,13 @@ Tech Stack:
 
 
 <p align="center">
+
+
+<a href="https://vijay-2026dev-portfolio.lovable.app">
+
+<img src="https://img.shields.io/badge/My Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+
+</a>
 
 
 <a href="https://www.linkedin.com/in/vijay-pagoti-20b03a2b4">
@@ -249,8 +283,7 @@ Tech Stack:
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </p>
 
